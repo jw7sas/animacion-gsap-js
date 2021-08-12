@@ -1,0 +1,38 @@
+
+/* Global styles come from external css https://codepen.io/GreenSock/pen/JGaKdQ*/
+
+body {
+  margin: 5px;
+  font-family: 'Oswald', sans-serif;
+  background: #1a1a1d;
+  color: #FFF;
+  font-size: 20px;
+  text-transform: uppercase;
+  padding: 40px;
+}
+
+.anime-images{
+    position: absolute;
+    max-width: 240px;
+    min-width: 40px;
+}
+
+#image-container{
+    position: relative; 
+    left: 0; 
+    top: 0;
+}
+
+button {
+    font-size: 9px;
+    text-transform:uppercase;
+    background: transparent;
+    background: #47cf73;
+    color:#000;
+    padding: 10px;
+    letter-spacing: 3px;
+    font-weight: 800;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
